@@ -8,7 +8,7 @@
 - 💬 Ask me about **web dev, new tech, or content creation (YouTube/Twitch)**  
 - ⚡ Fun facts:  
   - I love experimenting with fresh challenges & learning constantly  
-  - Building a **Soundbot** for Discord, Twitch & YouTube  
+  - Building a **Something** for Discord, Twitch & YouTube  
   - Excited to launch my **first projects soon!**  
 
 ---
