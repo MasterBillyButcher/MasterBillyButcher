@@ -27,18 +27,29 @@
 
 ## ⚡ Who Am I?
 
-```typescript
-const masterBillie = {
-  role      : "Full-Stack Developer & Content Creator",
-  location  : "On the internet - always online",
-  building  : ["Web Apps", "Discord / Twitch / YouTube Tools", "Open Source"],
-  learning  : ["Full-Stack Dev", "Interactive UI", "UX & Performance"],
-  collab    : "Open-source tools, web apps, tech content creation",
-  platforms : ["YouTube", "Twitch", "Discord"],
-  funFact   : "I ship something new before most people finish their coffee",
-  motto     : "If it can be built, it will be built.",
-};
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🚀 | **Full-Stack Developer & Content Creator** |
+| 🌐 | Building web apps, bots & tools for Discord · Twitch · YouTube |
+| 🎓 | Mastering full-stack dev, interactive UI & UX performance |
+| 🤝 | Open to collabs on open-source tools & web projects |
+| 🎬 | Creating tech content across YouTube, Twitch & Discord |
+| ☕ | *"I ship something new before most people finish their coffee"* |
+| 🔥 | **"If it can be built, it will be built."** |
+
+</div>
+
+<div align="center">
+
+![Developer](https://img.shields.io/badge/Full--Stack-Developer-9146FF?style=for-the-badge&logoColor=white)
+![Creator](https://img.shields.io/badge/Content-Creator-FF4500?style=for-the-badge&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open-Source%20Builder-238636?style=for-the-badge&logoColor=white)
+![Streamer](https://img.shields.io/badge/Twitch-Streamer-6441a5?style=for-the-badge&logo=twitch&logoColor=white)
+![Shipping](https://img.shields.io/badge/Always-Shipping%20%E2%9A%A1-FF0000?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
