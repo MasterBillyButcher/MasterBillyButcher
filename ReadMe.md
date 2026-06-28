@@ -30,12 +30,12 @@
 ```typescript
 const masterBillie = {
   role      : "Full-Stack Developer & Content Creator",
-  location  : "On the internet — always online 🌐",
+  location  : "On the internet - always online",
   building  : ["Web Apps", "Discord / Twitch / YouTube Tools", "Open Source"],
   learning  : ["Full-Stack Dev", "Interactive UI", "UX & Performance"],
   collab    : "Open-source tools, web apps, tech content creation",
-  platforms : ["YouTube 🎬", "Twitch 🟣", "Discord 💜"],
-  funFact   : "I ship something new before most people finish their coffee ☕",
+  platforms : ["YouTube", "Twitch", "Discord"],
+  funFact   : "I ship something new before most people finish their coffee",
   motto     : "If it can be built, it will be built.",
 };
 ```
