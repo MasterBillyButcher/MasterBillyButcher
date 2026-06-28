@@ -182,13 +182,13 @@
 
 <div align="center">
 
-> **Setup required:** Create `.github/workflows/snake.yml` in your profile repo using the workflow file included below. Run it once manually, then it auto-updates daily.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MasterBillyButcher/MasterBillyButcher/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MasterBillyButcher/MasterBillyButcher/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/MasterBillyButcher/MasterBillyButcher/output/github-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/MasterBillyButcher/MasterBillyButcher/output/github-snake.svg" alt="Contribution snake animation" onerror="this.style.display='none'" />
 </picture>
+
+> 💡 **One-time setup:** Add `snake.yml` to `.github/workflows/` in your profile repo → go to **Actions** tab → click **Run workflow**. The snake appears automatically and refreshes every 24 hours.
 
 </div>
 
@@ -198,7 +198,8 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MasterBillyButcher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Primary mirror (hesreallyhim — $100 sponsor, most reliable) -->
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=MasterBillyButcher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" onerror="this.src='https://github-profile-trophy-winning.vercel.app/?username=MasterBillyButcher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A,B,C'" />
 
 </div>
 
